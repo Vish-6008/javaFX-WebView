@@ -4,7 +4,7 @@
  *   contents is not permitted without written authorization.
  *   Offenders will be liable for damages. All rights reserved.
  *---------------------------------------------------------------------------
- *   Purpose:  Below code creates a HTML page with a message. 
+ *   Purpose:  Below code takes action for every button provided in the scene-builder. 
  *   Project:  MainController
  *   Platform: Cross-platform (Windows, macOS, Linux)
  *   Compiler: JDK-22
